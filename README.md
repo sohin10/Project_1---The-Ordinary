@@ -41,8 +41,7 @@ In conclusion, my aims for this project are to learn and educate myself how to c
 ![ordinary](https://user-images.githubusercontent.com/60220627/194529984-8bd9e94a-e5e0-42bc-9019-df5a43f7b233.gif)
 
 
-### CLASS PORTAL WEBSITE LINK
- https://sohin10.github.io/Classportal2/
+
 
 
 
