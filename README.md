@@ -46,7 +46,28 @@ In conclusion, my aims for this project are to learn and educate myself how to c
 
 
 
+# Milestone 2
 
+In my second milestone, I began by designing a landing page and a prototype that mimicked the appearance of the real website. 
+The design of my website is centered on how the page animates using the scroll bar. 
+I generated a sequence of photos by first capturing stop-motion photographs of the product on a backdrop. 
+I then imported them into Adobe Xd and placed each picture on a separate screen. Every time the user scrolls through, a new screen or the next picture in the sequence of photos will appear. After adding all the photos, I proceeded to add the text. 
+As one scrolls down, the text would essentially reveal itself word by letter beside each picture. 
+
+
+### Changes to initial design
+While taking the photographs, I noticed that it was more efficient to take the shots by rolling the bottle instead of opening the bottle, as I illustrated in my earlier prototype for milestone 1. 
+Initially, I intended to only create the animation where the landing page reveals the brand name and product without going into product detail. However, as I was creating the prototype, I decided to add an additional section where, once the brand name and product are revealed, the product rolls across the screen from right to left, hiding the brand name, and a product page will appear where the user can add the product to their cart and also the number of products they can purchase. 
+
+Next, it will be essential to figure out how to deal with text animation on scroll and its opacity. For the final website, I will reshoot the photographs in better lighting, but for the time being, I will use the images that I have already taken to add them to the website and implement them in the code. 
+
+### Future changes 
+In addition to these modifications, when I reach the product page, I may add extra descriptions, buttons, and hover animations to other items or add a drop down menu option to increase the user experience of the website.
+
+
+
+
+https://user-images.githubusercontent.com/60220627/194795911-c614c22e-c1ce-4a4b-8b56-6a77c37f14f9.mp4
 
 
 
